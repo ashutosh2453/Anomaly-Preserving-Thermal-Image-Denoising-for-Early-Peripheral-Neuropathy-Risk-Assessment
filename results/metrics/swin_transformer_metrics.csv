@@ -1,0 +1,2 @@
+model,device,epochs,best_epoch,train_images,validation_images,batch_size,accuracy,precision,recall,f1,roc_auc
+Swin Transformer Tiny,NVIDIA GeForce RTX 4060 Laptop GPU,5,1,1444,422,16,0.9289099526066351,0.9826086956521739,0.8968253968253969,0.9377593360995851,0.9652544351073763

@@ -1,0 +1,8 @@
+experiment,condition_or_model,accuracy,precision,recall,f1,roc_auc
+Classification Model,Swin Transformer,0.9289,0.9826,0.8968,0.9378,0.9653
+Classification Model,Swin Transformer + GCN,0.8246,0.887,0.8095,0.8465,0.8794
+Denoising -> Classification,Gaussian + Bilateral,0.8318,0.8918,0.8175,0.853,0.8994
+Denoising -> Classification,Clean,0.8199,0.9074,0.7778,0.8376,0.8683
+Denoising -> Classification,Gaussian + Median,0.8199,0.9074,0.7778,0.8376,0.8868
+Denoising -> Classification,Gaussian Noise,0.8175,0.907,0.7738,0.8351,0.8875
+Denoising -> Classification,Gaussian + Gaussian,0.8175,0.907,0.7738,0.8351,0.8841

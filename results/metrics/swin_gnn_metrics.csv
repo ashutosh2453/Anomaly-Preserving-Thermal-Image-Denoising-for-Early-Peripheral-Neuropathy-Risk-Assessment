@@ -1,0 +1,2 @@
+model,device,train_nodes,validation_nodes,swin_embedding_dimension,thermal_feature_dimension,combined_feature_dimension,k_neighbors,best_epoch,accuracy,precision,recall,f1,roc_auc
+Swin Transformer + GCN,NVIDIA GeForce RTX 4060 Laptop GPU,1444,422,768,7,775,5,15,0.8246445497630331,0.8869565217391304,0.8095238095238095,0.8464730290456431,0.8794351073762838

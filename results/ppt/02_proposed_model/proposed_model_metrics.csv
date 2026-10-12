@@ -1,0 +1,2 @@
+Model,Accuracy (%),Precision (%),Recall (%),F1-score (%),ROC-AUC (%),Validation Samples
+Improved Swin + GNN,92.1801,93.2806,93.6508,93.4653,98.1092,422

@@ -1,0 +1,2 @@
+experiment,conditions_tested,training_images_per_condition,validation_images_per_condition,best_condition,best_accuracy,best_precision,best_recall,best_f1,best_roc_auc
+Denoising -> Classification,5,1444,422,Gaussian + Bilateral,0.8318,0.8918,0.8175,0.853,0.8994

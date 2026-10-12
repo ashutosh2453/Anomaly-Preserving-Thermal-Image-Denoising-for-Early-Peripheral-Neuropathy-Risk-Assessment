@@ -1,0 +1,4 @@
+noise_type,denoising_method,psnr,ssim,anomaly_recall,anomaly_iou,intensity_preservation,area_preservation,anomaly_preservation_score
+gaussian,median,35.6172,0.9967,0.9043,0.8496,0.9953,0.9695,0.9126
+salt_pepper,median,41.9398,0.9987,0.9746,0.9623,0.9973,0.9878,0.9768
+speckle,bilateral,42.2991,0.9994,0.9258,0.8941,0.9961,0.9623,0.934

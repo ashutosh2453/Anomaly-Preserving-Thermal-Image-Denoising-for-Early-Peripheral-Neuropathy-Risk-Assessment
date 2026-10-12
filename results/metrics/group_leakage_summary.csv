@@ -1,0 +1,10 @@
+metric,value
+total_images,1866
+training_images,1444
+validation_images,422
+unique_groups,333
+training_groups,253
+validation_groups,80
+overlapping_groups,0
+mixed_class_groups,0
+leakage_status,NO_OVERLAP_FOUND

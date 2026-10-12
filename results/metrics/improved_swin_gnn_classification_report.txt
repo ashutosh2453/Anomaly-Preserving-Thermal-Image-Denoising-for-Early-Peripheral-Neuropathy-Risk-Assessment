@@ -1,0 +1,14 @@
+IMPROVED SWIN + GNN
+============================================================
+
+Best K: 5
+Best Epoch: 9
+
+              precision    recall  f1-score   support
+
+     Control       0.90      0.98      0.94       170
+          DM       0.99      0.93      0.96       252
+
+    accuracy                           0.95       422
+   macro avg       0.95      0.96      0.95       422
+weighted avg       0.95      0.95      0.95       422

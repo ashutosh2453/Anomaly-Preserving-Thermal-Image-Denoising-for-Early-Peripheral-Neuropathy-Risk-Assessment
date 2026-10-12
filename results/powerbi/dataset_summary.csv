@@ -1,0 +1,10 @@
+category,metric,value
+Dataset,Total Images,1866
+Class,DM,976
+Class,Control,890
+Split,train,1444
+Split,val,422
+Split-Class,train-Control,720
+Split-Class,train-DM,724
+Split-Class,val-Control,170
+Split-Class,val-DM,252

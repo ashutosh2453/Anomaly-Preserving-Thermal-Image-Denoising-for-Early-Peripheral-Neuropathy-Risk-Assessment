@@ -1,0 +1,56 @@
+# ============================================================
+# THERMAL IMAGE DIABETIC FOOT PROJECT - .gitignore
+# ============================================================
+
+# ---- Processed image data (too large for GitHub) ----
+data/processed/
+data/features/thermal_features.csv
+
+# ---- Raw dataset images (tracked separately / not redistributed) ----
+archive/ThermoDataBase/
+archive.zip
+
+# ---- Large model checkpoints (>100 MB - GitHub file size limit) ----
+models/classification/best_swin_transformer_thermal.pth
+models/classification/step11_swin_gaussian-bilateral.pth
+models/classification/step11_swin_gaussian-gaussian.pth
+models/classification/step11_swin_gaussian-median.pth
+models/classification/step11_swin_gaussian-noisy.pth
+models/classification/step11_swin_clean.pth
+
+# ---- Python cache ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# ---- Virtual environments ----
+venv/
+env/
+.env/
+ENV/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ---- Spark ----
+spark-warehouse/
+derby.log
+metastore_db/
+
+# ---- Logs ----
+*.log
+
+# ---- Zip archives ----
+results/ppt.zip

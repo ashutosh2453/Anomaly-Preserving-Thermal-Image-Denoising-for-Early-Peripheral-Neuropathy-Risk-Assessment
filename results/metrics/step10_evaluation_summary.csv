@@ -1,0 +1,3 @@
+category,best_method,evaluation
+Denoising,Median for Gaussian/Salt-Pepper; Bilateral for Speckle,"PSNR, SSIM, anomaly preservation"
+Classification,Swin Transformer,"Accuracy, Precision, Recall, F1, ROC-AUC"

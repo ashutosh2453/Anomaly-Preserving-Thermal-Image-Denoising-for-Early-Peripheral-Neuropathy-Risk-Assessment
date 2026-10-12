@@ -1,0 +1,11 @@
+metric,value
+Total Images,1866
+Correct Predictions,1505
+Accuracy,0.8065380493033226
+Precision,0.8506271379703535
+Recall,0.764344262295082
+F1,0.8051807879114948
+True Negative,759
+False Positive,131
+False Negative,230
+True Positive,746

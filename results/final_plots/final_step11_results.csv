@@ -1,0 +1,6 @@
+condition,condition_label,best_epoch,train_images,validation_images,accuracy,precision,recall,f1,roc_auc
+gaussian_bilateral,Gaussian + Bilateral,4,1444,422,0.8318,0.8918,0.8175,0.853,0.8994
+clean,Clean,3,1444,422,0.8199,0.9074,0.7778,0.8376,0.8683
+gaussian_median,Gaussian + Median,1,1444,422,0.8199,0.9074,0.7778,0.8376,0.8868
+gaussian_noisy,Gaussian Noise,2,1444,422,0.8175,0.907,0.7738,0.8351,0.8875
+gaussian_gaussian,Gaussian + Gaussian,2,1444,422,0.8175,0.907,0.7738,0.8351,0.8841

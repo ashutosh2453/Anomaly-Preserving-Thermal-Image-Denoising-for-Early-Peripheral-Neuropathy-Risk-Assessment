@@ -1,0 +1,4 @@
+Method,PSNR,SSIM,Anomaly Recall,Anomaly IoU,Intensity Preservation,Area Preservation,Anomaly Preservation Score
+bilateral,32.9702,0.9747,0.9361,0.8719,0.9964,0.9585,0.9311
+gaussian,34.3019,0.9946,0.9134,0.8713,0.993,0.9525,0.9206
+median,38.8918,0.9979,0.9304,0.8965,0.9957,0.9702,0.9373
